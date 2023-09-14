@@ -1,0 +1,1290 @@
+[
+    {
+        "id": 1665560,
+        "parent_id": 0,
+        "status": "on-hold",
+        "currency": "MXN",
+        "version": "7.4.0",
+        "prices_include_tax": true,
+        "date_created": "2023-02-02T11:56:35",
+        "date_modified": "2023-02-21T11:58:52",
+        "discount_total": "22690.00",
+        "discount_tax": "0.00",
+        "shipping_total": "0.00",
+        "shipping_tax": "0.00",
+        "cart_tax": "0.00",
+        "total": "32160.00",
+        "total_tax": "0.00",
+        "customer_id": 7525,
+        "order_key": "wc_order_wCp1JUfIlGDGe",
+        "billing": {
+            "first_name": "Salomon",
+            "last_name": "Amiga",
+            "company": "",
+            "address_1": "Fuente de Venus 28",
+            "address_2": "Tecamachalco",
+            "city": "huixquilucan",
+            "state": "MX",
+            "postcode": "52780",
+            "country": "MX",
+            "email": "salomonamiga@gmail.com",
+            "phone": "55 2564 5169"
+        },
+        "shipping": {
+            "first_name": "Salomon",
+            "last_name": "Amiga",
+            "company": "",
+            "address_1": "Fuente de Venus 28",
+            "address_2": "Tecamachalco",
+            "city": "huixquilucan",
+            "state": "MX",
+            "postcode": "52780",
+            "country": "MX",
+            "phone": ""
+        },
+        "payment_method": "bacs",
+        "payment_method_title": "Transferencia Bancaria Directa",
+        "transaction_id": "",
+        "customer_ip_address": "",
+        "customer_user_agent": "",
+        "created_via": "admin",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": null,
+        "cart_hash": "",
+        "number": "1665560",
+        "meta_data": [
+            {
+                "id": 33591020,
+                "key": "_wc_cog_order_total_cost",
+                "value": "25685.00"
+            },
+            {
+                "id": 33591021,
+                "key": "_pos",
+                "value": "0"
+            },
+            {
+                "id": 33591042,
+                "key": "sheet_updated_range",
+                "value": "Envios!A42:AX42"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 228640,
+                "name": "Juul Pods (4 pods) - Menthol 5%",
+                "product_id": 1920,
+                "variation_id": 1930,
+                "quantity": 8,
+                "tax_class": "zero-rate",
+                "subtotal": "3600.00",
+                "subtotal_tax": "0.00",
+                "total": "2000.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2300921,
+                        "key": "sabor",
+                        "value": "Menthol 5%",
+                        "display_key": "Sabor",
+                        "display_value": "Menthol 5%"
+                    },
+                    {
+                        "id": 2300922,
+                        "key": "_wc_cog_item_cost",
+                        "value": "250",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "250"
+                    },
+                    {
+                        "id": 2300923,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "2000.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "2000.0000"
+                    },
+                    {
+                        "id": 2302520,
+                        "key": "_reduced_stock",
+                        "value": "8",
+                        "display_key": "_reduced_stock",
+                        "display_value": "8"
+                    }
+                ],
+                "sku": "",
+                "price": 250,
+                "image": {
+                    "id": 316471,
+                    "src": "https://vapelab.mx/wp-content/uploads/2018/12/Juul-Pods-4-pods-Menthol-5.jpg"
+                },
+                "parent_name": "Juul Pods (4 pods)",
+                "cog_item_cost": 250,
+                "cog_item_total_cost": 2000
+            },
+            {
+                "id": 229366,
+                "name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas - Blue Razz Lemon",
+                "product_id": 1327858,
+                "variation_id": 1618693,
+                "quantity": 5,
+                "tax_class": "",
+                "subtotal": "2500.00",
+                "subtotal_tax": "0.00",
+                "total": "1187.50",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2307949,
+                        "key": "sabores",
+                        "value": "Blue Razz Lemon",
+                        "display_key": "Sabores:",
+                        "display_value": "Blue Razz Lemon"
+                    },
+                    {
+                        "id": 2307950,
+                        "key": "_wc_cog_item_cost",
+                        "value": "237.5",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "237.5"
+                    },
+                    {
+                        "id": 2307951,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "1187.5000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "1187.5000"
+                    },
+                    {
+                        "id": 2308037,
+                        "key": "_reduced_stock",
+                        "value": "5",
+                        "display_key": "_reduced_stock",
+                        "display_value": "5"
+                    }
+                ],
+                "sku": "",
+                "price": 237.5,
+                "image": {
+                    "id": 1618702,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/10/Blue-Razz-Lemon.jpg"
+                },
+                "parent_name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas",
+                "cog_item_cost": 237.5,
+                "cog_item_total_cost": 1187.5
+            },
+            {
+                "id": 229367,
+                "name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas - Sour Apple",
+                "product_id": 1327858,
+                "variation_id": 1331743,
+                "quantity": 20,
+                "tax_class": "",
+                "subtotal": "10000.00",
+                "subtotal_tax": "0.00",
+                "total": "4750.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2307961,
+                        "key": "sabores",
+                        "value": "Sour Apple",
+                        "display_key": "Sabores:",
+                        "display_value": "Sour Apple"
+                    },
+                    {
+                        "id": 2307962,
+                        "key": "_wc_cog_item_cost",
+                        "value": "237.5",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "237.5"
+                    },
+                    {
+                        "id": 2307963,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "4750.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "4750.0000"
+                    },
+                    {
+                        "id": 2308038,
+                        "key": "_reduced_stock",
+                        "value": "20",
+                        "display_key": "_reduced_stock",
+                        "display_value": "20"
+                    }
+                ],
+                "sku": "",
+                "price": 237.5,
+                "image": {
+                    "id": 1331754,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/04/Sour-Apple-BC-5000.jpg"
+                },
+                "parent_name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas",
+                "cog_item_cost": 237.5,
+                "cog_item_total_cost": 4750
+            },
+            {
+                "id": 229368,
+                "name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas - Gumi (Limited Edition)",
+                "product_id": 1327858,
+                "variation_id": 1348240,
+                "quantity": 5,
+                "tax_class": "",
+                "subtotal": "3000.00",
+                "subtotal_tax": "0.00",
+                "total": "1312.50",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2307973,
+                        "key": "sabores",
+                        "value": "Gumi (Limited Edition)",
+                        "display_key": "Sabores:",
+                        "display_value": "Gumi (Limited Edition)"
+                    },
+                    {
+                        "id": 2307974,
+                        "key": "_wc_cog_item_cost",
+                        "value": "262.5",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "262.5"
+                    },
+                    {
+                        "id": 2307975,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "1312.5000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "1312.5000"
+                    },
+                    {
+                        "id": 2308039,
+                        "key": "_reduced_stock",
+                        "value": "5",
+                        "display_key": "_reduced_stock",
+                        "display_value": "5"
+                    }
+                ],
+                "sku": "",
+                "price": 262.5,
+                "image": {
+                    "id": 1656828,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/03/Elf-Bar-5000-Puff-Disposable1.jpg"
+                },
+                "parent_name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas",
+                "cog_item_cost": 262.5,
+                "cog_item_total_cost": 1312.5
+            },
+            {
+                "id": 229369,
+                "name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas - Passion Fruit Orange Guava (Limited Edition)",
+                "product_id": 1327858,
+                "variation_id": 1339579,
+                "quantity": 5,
+                "tax_class": "",
+                "subtotal": "3000.00",
+                "subtotal_tax": "0.00",
+                "total": "1437.50",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2307985,
+                        "key": "sabores",
+                        "value": "Passion Fruit Orange Guava (Limited Edition)",
+                        "display_key": "Sabores:",
+                        "display_value": "Passion Fruit Orange Guava (Limited Edition)"
+                    },
+                    {
+                        "id": 2307986,
+                        "key": "_wc_cog_item_cost",
+                        "value": "287.5",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "287.5"
+                    },
+                    {
+                        "id": 2307987,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "1437.5000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "1437.5000"
+                    },
+                    {
+                        "id": 2308040,
+                        "key": "_reduced_stock",
+                        "value": "5",
+                        "display_key": "_reduced_stock",
+                        "display_value": "5"
+                    }
+                ],
+                "sku": "",
+                "price": 287.5,
+                "image": {
+                    "id": 1339580,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/06/Passion-Fruit-Orange-Guava-.webp"
+                },
+                "parent_name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas",
+                "cog_item_cost": 287.5,
+                "cog_item_total_cost": 1437.5
+            },
+            {
+                "id": 229370,
+                "name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas - Rainbow Cloudz (Limited Edition)",
+                "product_id": 1327858,
+                "variation_id": 1339581,
+                "quantity": 5,
+                "tax_class": "",
+                "subtotal": "3000.00",
+                "subtotal_tax": "0.00",
+                "total": "1437.50",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2307997,
+                        "key": "sabores",
+                        "value": "Rainbow Cloudz (Limited Edition)",
+                        "display_key": "Sabores:",
+                        "display_value": "Rainbow Cloudz (Limited Edition)"
+                    },
+                    {
+                        "id": 2307998,
+                        "key": "_wc_cog_item_cost",
+                        "value": "287.5",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "287.5"
+                    },
+                    {
+                        "id": 2307999,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "1437.5000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "1437.5000"
+                    },
+                    {
+                        "id": 2308041,
+                        "key": "_reduced_stock",
+                        "value": "5",
+                        "display_key": "_reduced_stock",
+                        "display_value": "5"
+                    }
+                ],
+                "sku": "",
+                "price": 287.5,
+                "image": {
+                    "id": 1339582,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/06/Rainbow_Cloudz.jpg"
+                },
+                "parent_name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas",
+                "cog_item_cost": 287.5,
+                "cog_item_total_cost": 1437.5
+            },
+            {
+                "id": 229371,
+                "name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas - Strawberry Pina Coloda (Limited Edition)",
+                "product_id": 1327858,
+                "variation_id": 1339586,
+                "quantity": 10,
+                "tax_class": "",
+                "subtotal": "6000.00",
+                "subtotal_tax": "0.00",
+                "total": "2875.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2308009,
+                        "key": "sabores",
+                        "value": "Strawberry Pina Coloda (Limited Edition)",
+                        "display_key": "Sabores:",
+                        "display_value": "Strawberry Pina Coloda (Limited Edition)"
+                    },
+                    {
+                        "id": 2308010,
+                        "key": "_wc_cog_item_cost",
+                        "value": "287.5",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "287.5"
+                    },
+                    {
+                        "id": 2308011,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "2875.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "2875.0000"
+                    },
+                    {
+                        "id": 2308042,
+                        "key": "_reduced_stock",
+                        "value": "10",
+                        "display_key": "_reduced_stock",
+                        "display_value": "10"
+                    }
+                ],
+                "sku": "",
+                "price": 287.5,
+                "image": {
+                    "id": 1339587,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/06/Strawberry-Pina-Colada.webp"
+                },
+                "parent_name": "Elf Bar BC 5000 - Vaporizador Desechable 5000 + Caladas",
+                "cog_item_cost": 287.5,
+                "cog_item_total_cost": 2875
+            },
+            {
+                "id": 230140,
+                "name": "Waka Solo - Vaporizador Desechable 5% - 1800+ caladas - Strawberry Banana",
+                "product_id": 1514126,
+                "variation_id": 1514166,
+                "quantity": 2,
+                "tax_class": "",
+                "subtotal": "500.00",
+                "subtotal_tax": "0.00",
+                "total": "250.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2315590,
+                        "key": "sabor",
+                        "value": "Strawberry Banana",
+                        "display_key": "Sabor:",
+                        "display_value": "Strawberry Banana"
+                    },
+                    {
+                        "id": 2315591,
+                        "key": "_wc_cog_item_cost",
+                        "value": "125",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "125"
+                    },
+                    {
+                        "id": 2315592,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "250.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "250.0000"
+                    },
+                    {
+                        "id": 2315617,
+                        "key": "_reduced_stock",
+                        "value": "2",
+                        "display_key": "_reduced_stock",
+                        "display_value": "2"
+                    }
+                ],
+                "sku": "",
+                "price": 125,
+                "image": {
+                    "id": 1514323,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/08/STRAWBERRYBANANA.png"
+                },
+                "parent_name": "Waka Solo - Vaporizador Desechable 5% - 1800+ caladas",
+                "cog_item_cost": 125,
+                "cog_item_total_cost": 250
+            },
+            {
+                "id": 230141,
+                "name": "Waka Solo - Vaporizador Desechable 5% - 1800+ caladas - Strawberry  Mango",
+                "product_id": 1514126,
+                "variation_id": 1514165,
+                "quantity": 2,
+                "tax_class": "",
+                "subtotal": "500.00",
+                "subtotal_tax": "0.00",
+                "total": "250.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2315602,
+                        "key": "sabor",
+                        "value": "Strawberry  Mango",
+                        "display_key": "Sabor:",
+                        "display_value": "Strawberry  Mango"
+                    },
+                    {
+                        "id": 2315603,
+                        "key": "_wc_cog_item_cost",
+                        "value": "125",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "125"
+                    },
+                    {
+                        "id": 2315604,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "125.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "125.0000"
+                    },
+                    {
+                        "id": 2315618,
+                        "key": "_reduced_stock",
+                        "value": "2",
+                        "display_key": "_reduced_stock",
+                        "display_value": "2"
+                    }
+                ],
+                "sku": "",
+                "price": 125,
+                "image": {
+                    "id": 1514322,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/08/STRAWBERRY-MANGO.png"
+                },
+                "parent_name": "Waka Solo - Vaporizador Desechable 5% - 1800+ caladas",
+                "cog_item_cost": 125,
+                "cog_item_total_cost": 125
+            },
+            {
+                "id": 230142,
+                "name": "Waka Solo - Vaporizador Desechable 5% - 1800+ caladas - Blueberry Dream",
+                "product_id": 1514126,
+                "variation_id": 1514153,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "250.00",
+                "subtotal_tax": "0.00",
+                "total": "125.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2315614,
+                        "key": "sabor",
+                        "value": "Blueberry Dream",
+                        "display_key": "Sabor:",
+                        "display_value": "Blueberry Dream"
+                    },
+                    {
+                        "id": 2315615,
+                        "key": "_wc_cog_item_cost",
+                        "value": "125",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "125"
+                    },
+                    {
+                        "id": 2315616,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "125.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "125.0000"
+                    },
+                    {
+                        "id": 2315619,
+                        "key": "_reduced_stock",
+                        "value": "1",
+                        "display_key": "_reduced_stock",
+                        "display_value": "1"
+                    }
+                ],
+                "sku": "",
+                "price": 125,
+                "image": {
+                    "id": 1514307,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/08/BLUEBERRY-DREAM.png"
+                },
+                "parent_name": "Waka Solo - Vaporizador Desechable 5% - 1800+ caladas",
+                "cog_item_cost": 125,
+                "cog_item_total_cost": 125
+            },
+            {
+                "id": 230466,
+                "name": "VGOD 4K R POD - Vaporizador Desechable 4000+ Caladas - Cubano",
+                "product_id": 1646736,
+                "variation_id": 1646802,
+                "quantity": 2,
+                "tax_class": "",
+                "subtotal": "800.00",
+                "subtotal_tax": "0.00",
+                "total": "250.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2318986,
+                        "key": "sabores",
+                        "value": "Cubano",
+                        "display_key": "Sabores:",
+                        "display_value": "Cubano"
+                    },
+                    {
+                        "id": 2318987,
+                        "key": "_wc_cog_item_cost",
+                        "value": "125",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "125"
+                    },
+                    {
+                        "id": 2318988,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "250.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "250.0000"
+                    },
+                    {
+                        "id": 2318989,
+                        "key": "_reduced_stock",
+                        "value": "2",
+                        "display_key": "_reduced_stock",
+                        "display_value": "2"
+                    }
+                ],
+                "sku": "",
+                "price": 125,
+                "image": {
+                    "id": 1646816,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/12/Cover-4k-R-VGOD.webp"
+                },
+                "parent_name": "VGOD 4K R POD - Vaporizador Desechable 4000+ Caladas",
+                "cog_item_cost": 125,
+                "cog_item_total_cost": 250
+            },
+            {
+                "id": 230679,
+                "name": "Fly JUMBO - Vaporizador Desechable 5% - 5000+ caladas - Coconut Ice",
+                "product_id": 1341611,
+                "variation_id": 1620613,
+                "quantity": 5,
+                "tax_class": "",
+                "subtotal": "1750.00",
+                "subtotal_tax": "0.00",
+                "total": "725.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2321067,
+                        "key": "sabor",
+                        "value": "Coconut Ice",
+                        "display_key": "Sabor:",
+                        "display_value": "Coconut Ice"
+                    },
+                    {
+                        "id": 2321068,
+                        "key": "_wc_cog_item_cost",
+                        "value": "145",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "145"
+                    },
+                    {
+                        "id": 2321069,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "725.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "725.0000"
+                    },
+                    {
+                        "id": 2321082,
+                        "key": "_reduced_stock",
+                        "value": "5",
+                        "display_key": "_reduced_stock",
+                        "display_value": "5"
+                    }
+                ],
+                "sku": "",
+                "price": 145,
+                "image": {
+                    "id": 1623563,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/10/fly-jumbo-coconut-ice.jpg"
+                },
+                "parent_name": "Fly JUMBO - Vaporizador Desechable 5% - 5000+ caladas",
+                "cog_item_cost": 145,
+                "cog_item_total_cost": 725
+            },
+            {
+                "id": 230680,
+                "name": "Fly JUMBO - Vaporizador Desechable 5% - 5000+ caladas - Peach Ice",
+                "product_id": 1341611,
+                "variation_id": 1341645,
+                "quantity": 10,
+                "tax_class": "",
+                "subtotal": "3500.00",
+                "subtotal_tax": "0.00",
+                "total": "1450.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2321079,
+                        "key": "sabor",
+                        "value": "Peach Ice",
+                        "display_key": "Sabor:",
+                        "display_value": "Peach Ice"
+                    },
+                    {
+                        "id": 2321080,
+                        "key": "_wc_cog_item_cost",
+                        "value": "145",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "145"
+                    },
+                    {
+                        "id": 2321081,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "1450.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "1450.0000"
+                    },
+                    {
+                        "id": 2321083,
+                        "key": "_reduced_stock",
+                        "value": "10",
+                        "display_key": "_reduced_stock",
+                        "display_value": "10"
+                    }
+                ],
+                "sku": "",
+                "price": 145,
+                "image": {
+                    "id": 1341658,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/06/fly-jumbo-peach-ice.jpeg"
+                },
+                "parent_name": "Fly JUMBO - Vaporizador Desechable 5% - 5000+ caladas",
+                "cog_item_cost": 145,
+                "cog_item_total_cost": 1450
+            },
+            {
+                "id": 231495,
+                "name": "IPlay - X box - Vaporizador Desechable 4% 4000 + Caladas - Blueberry Raspberry",
+                "product_id": 1622634,
+                "variation_id": 1622840,
+                "quantity": 5,
+                "tax_class": "",
+                "subtotal": "2000.00",
+                "subtotal_tax": "0.00",
+                "total": "700.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2329087,
+                        "key": "sabores",
+                        "value": "Blueberry Raspberry",
+                        "display_key": "Sabores:",
+                        "display_value": "Blueberry Raspberry"
+                    },
+                    {
+                        "id": 2329088,
+                        "key": "_wc_cog_item_cost",
+                        "value": "140",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "140"
+                    },
+                    {
+                        "id": 2329089,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "700.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "700.0000"
+                    },
+                    {
+                        "id": 2329102,
+                        "key": "_reduced_stock",
+                        "value": "5",
+                        "display_key": "_reduced_stock",
+                        "display_value": "5"
+                    }
+                ],
+                "sku": "",
+                "price": 140,
+                "image": {
+                    "id": 1622707,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/10/IPLAY-X-BOX-300x300-1.jpeg"
+                },
+                "parent_name": "IPlay - X box - Vaporizador Desechable 4% 4000 + Caladas",
+                "cog_item_cost": 140,
+                "cog_item_total_cost": 700
+            },
+            {
+                "id": 231496,
+                "name": "IPlay - X box - Vaporizador Desechable 4% 4000 + Caladas - Watermelon Ice",
+                "product_id": 1622634,
+                "variation_id": 1622849,
+                "quantity": 3,
+                "tax_class": "",
+                "subtotal": "1200.00",
+                "subtotal_tax": "0.00",
+                "total": "420.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2329099,
+                        "key": "sabores",
+                        "value": "Watermelon Ice",
+                        "display_key": "Sabores:",
+                        "display_value": "Watermelon Ice"
+                    },
+                    {
+                        "id": 2329100,
+                        "key": "_wc_cog_item_cost",
+                        "value": "140",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "140"
+                    },
+                    {
+                        "id": 2329101,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "420.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "420.0000"
+                    },
+                    {
+                        "id": 2329103,
+                        "key": "_reduced_stock",
+                        "value": "3",
+                        "display_key": "_reduced_stock",
+                        "display_value": "3"
+                    }
+                ],
+                "sku": "",
+                "price": 140,
+                "image": {
+                    "id": 1622707,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/10/IPLAY-X-BOX-300x300-1.jpeg"
+                },
+                "parent_name": "IPlay - X box - Vaporizador Desechable 4% 4000 + Caladas",
+                "cog_item_cost": 140,
+                "cog_item_total_cost": 420
+            },
+            {
+                "id": 235363,
+                "name": "Juul Pods (4 pods) - Menthol 5%",
+                "product_id": 1920,
+                "variation_id": 1930,
+                "quantity": 7,
+                "tax_class": "zero-rate",
+                "subtotal": "3150.00",
+                "subtotal_tax": "0.00",
+                "total": "3150.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2367241,
+                        "key": "sabor",
+                        "value": "Menthol 5%",
+                        "display_key": "Sabor",
+                        "display_value": "Menthol 5%"
+                    },
+                    {
+                        "id": 2367242,
+                        "key": "_wc_cog_item_cost",
+                        "value": "250",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "250"
+                    },
+                    {
+                        "id": 2367243,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "1750.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "1750.0000"
+                    },
+                    {
+                        "id": 2367319,
+                        "key": "_reduced_stock",
+                        "value": "7",
+                        "display_key": "_reduced_stock",
+                        "display_value": "7"
+                    }
+                ],
+                "sku": "",
+                "price": 450,
+                "image": {
+                    "id": 316471,
+                    "src": "https://vapelab.mx/wp-content/uploads/2018/12/Juul-Pods-4-pods-Menthol-5.jpg"
+                },
+                "parent_name": "Juul Pods (4 pods)",
+                "cog_item_cost": 250,
+                "cog_item_total_cost": 1750
+            },
+            {
+                "id": 235364,
+                "name": "Maskking Box Vape Desechable recargable 3000 + Caladas (5%Nic) - Blue Raspberry",
+                "product_id": 1333355,
+                "variation_id": 1333383,
+                "quantity": 4,
+                "tax_class": "",
+                "subtotal": "1400.00",
+                "subtotal_tax": "0.00",
+                "total": "1400.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2367253,
+                        "key": "sabores",
+                        "value": "Blue Raspberry",
+                        "display_key": "Sabores:",
+                        "display_value": "Blue Raspberry"
+                    },
+                    {
+                        "id": 2367254,
+                        "key": "_wc_cog_item_cost",
+                        "value": "175",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "175"
+                    },
+                    {
+                        "id": 2367255,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "700.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "700.0000"
+                    },
+                    {
+                        "id": 2367320,
+                        "key": "_reduced_stock",
+                        "value": "4",
+                        "display_key": "_reduced_stock",
+                        "display_value": "4"
+                    }
+                ],
+                "sku": "",
+                "price": 350,
+                "image": {
+                    "id": 1333399,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/04/Imagen-Maskking-BOXPortada.webp"
+                },
+                "parent_name": "Maskking Box Vape Desechable recargable 3000 + Caladas (5%Nic)",
+                "cog_item_cost": 175,
+                "cog_item_total_cost": 700
+            },
+            {
+                "id": 235365,
+                "name": "Maskking Box Vape Desechable recargable 3000 + Caladas (5%Nic) - Cool Mint",
+                "product_id": 1333355,
+                "variation_id": 1333387,
+                "quantity": 4,
+                "tax_class": "",
+                "subtotal": "1400.00",
+                "subtotal_tax": "0.00",
+                "total": "1400.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2367265,
+                        "key": "sabores",
+                        "value": "Cool Mint",
+                        "display_key": "Sabores:",
+                        "display_value": "Cool Mint"
+                    },
+                    {
+                        "id": 2367266,
+                        "key": "_wc_cog_item_cost",
+                        "value": "175",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "175"
+                    },
+                    {
+                        "id": 2367267,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "700.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "700.0000"
+                    },
+                    {
+                        "id": 2367321,
+                        "key": "_reduced_stock",
+                        "value": "4",
+                        "display_key": "_reduced_stock",
+                        "display_value": "4"
+                    }
+                ],
+                "sku": "",
+                "price": 350,
+                "image": {
+                    "id": 1333405,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/04/Cool_mint_800x.webp"
+                },
+                "parent_name": "Maskking Box Vape Desechable recargable 3000 + Caladas (5%Nic)",
+                "cog_item_cost": 175,
+                "cog_item_total_cost": 700
+            },
+            {
+                "id": 235366,
+                "name": "Maskking Box Vape Desechable recargable 3000 + Caladas (5%Nic) - Lush Ice",
+                "product_id": 1333355,
+                "variation_id": 1333390,
+                "quantity": 10,
+                "tax_class": "",
+                "subtotal": "3500.00",
+                "subtotal_tax": "0.00",
+                "total": "3500.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2367277,
+                        "key": "sabores",
+                        "value": "Lush Ice",
+                        "display_key": "Sabores:",
+                        "display_value": "Lush Ice"
+                    },
+                    {
+                        "id": 2367278,
+                        "key": "_wc_cog_item_cost",
+                        "value": "175",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "175"
+                    },
+                    {
+                        "id": 2367279,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "1750.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "1750.0000"
+                    },
+                    {
+                        "id": 2367322,
+                        "key": "_reduced_stock",
+                        "value": "10",
+                        "display_key": "_reduced_stock",
+                        "display_value": "10"
+                    }
+                ],
+                "sku": "",
+                "price": 350,
+                "image": {
+                    "id": 1333409,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/04/Lush-Ice.webp"
+                },
+                "parent_name": "Maskking Box Vape Desechable recargable 3000 + Caladas (5%Nic)",
+                "cog_item_cost": 175,
+                "cog_item_total_cost": 1750
+            },
+            {
+                "id": 235367,
+                "name": "Maskking Box Vape Desechable recargable 3000 + Caladas (5%Nic) - Strawberry Lychee ",
+                "product_id": 1333355,
+                "variation_id": 1333393,
+                "quantity": 4,
+                "tax_class": "",
+                "subtotal": "1400.00",
+                "subtotal_tax": "0.00",
+                "total": "1400.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2367289,
+                        "key": "sabores",
+                        "value": "Strawberry Lychee ",
+                        "display_key": "Sabores:",
+                        "display_value": "Strawberry Lychee "
+                    },
+                    {
+                        "id": 2367290,
+                        "key": "_wc_cog_item_cost",
+                        "value": "175",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "175"
+                    },
+                    {
+                        "id": 2367291,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "700.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "700.0000"
+                    },
+                    {
+                        "id": 2367323,
+                        "key": "_reduced_stock",
+                        "value": "4",
+                        "display_key": "_reduced_stock",
+                        "display_value": "4"
+                    }
+                ],
+                "sku": "",
+                "price": 350,
+                "image": {
+                    "id": 1333412,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/04/Strawberry_Lychee_d1c58f78-57de-424f-9e5b-a56df7041812_800x.webp"
+                },
+                "parent_name": "Maskking Box Vape Desechable recargable 3000 + Caladas (5%Nic)",
+                "cog_item_cost": 175,
+                "cog_item_total_cost": 700
+            },
+            {
+                "id": 235368,
+                "name": "Elf Bar BC 5000 Zero Nicotine - Vape Desechable 5000+ Caladas - Cranberry Grape",
+                "product_id": 1664093,
+                "variation_id": 1664464,
+                "quantity": 4,
+                "tax_class": "",
+                "subtotal": "2000.00",
+                "subtotal_tax": "0.00",
+                "total": "2000.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2367301,
+                        "key": "sabores",
+                        "value": "Cranberry Grape",
+                        "display_key": "Sabores:",
+                        "display_value": "Cranberry Grape"
+                    },
+                    {
+                        "id": 2367302,
+                        "key": "_wc_cog_item_cost",
+                        "value": "225",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "225"
+                    },
+                    {
+                        "id": 2367303,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "900.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "900.0000"
+                    },
+                    {
+                        "id": 2367324,
+                        "key": "_reduced_stock",
+                        "value": "4",
+                        "display_key": "_reduced_stock",
+                        "display_value": "4"
+                    }
+                ],
+                "sku": "",
+                "price": 500,
+                "image": {
+                    "id": 1664594,
+                    "src": "https://vapelab.mx/wp-content/uploads/2023/01/Cranberry-grape-Zero-Nicotine.png"
+                },
+                "parent_name": "Elf Bar BC 5000 Zero Nicotine - Vape Desechable 5000+ Caladas",
+                "cog_item_cost": 225,
+                "cog_item_total_cost": 900
+            },
+            {
+                "id": 235387,
+                "name": "IPlay - X box - Vaporizador Desechable 4% 4000 + Caladas - Coco Strawberry",
+                "product_id": 1622634,
+                "variation_id": 1651773,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "400.00",
+                "subtotal_tax": "0.00",
+                "total": "140.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                    {
+                        "id": 2367504,
+                        "key": "sabores",
+                        "value": "Coco Strawberry",
+                        "display_key": "Sabores:",
+                        "display_value": "Coco Strawberry"
+                    },
+                    {
+                        "id": 2367505,
+                        "key": "_wc_cog_item_cost",
+                        "value": "140",
+                        "display_key": "_wc_cog_item_cost",
+                        "display_value": "140"
+                    },
+                    {
+                        "id": 2367506,
+                        "key": "_wc_cog_item_total_cost",
+                        "value": "140.0000",
+                        "display_key": "_wc_cog_item_total_cost",
+                        "display_value": "140.0000"
+                    },
+                    {
+                        "id": 2367507,
+                        "key": "_reduced_stock",
+                        "value": "1",
+                        "display_key": "_reduced_stock",
+                        "display_value": "1"
+                    }
+                ],
+                "sku": "",
+                "price": 140,
+                "image": {
+                    "id": 1622707,
+                    "src": "https://vapelab.mx/wp-content/uploads/2022/10/IPLAY-X-BOX-300x300-1.jpeg"
+                },
+                "parent_name": "IPlay - X box - Vaporizador Desechable 4% 4000 + Caladas",
+                "cog_item_cost": 140,
+                "cog_item_total_cost": 140
+            }
+        ],
+        "tax_lines": [
+        ],
+        "shipping_lines": [
+            {
+                "id": 228646,
+                "method_title": "Envío",
+                "method_id": "",
+                "instance_id": "0",
+                "total": "0.00",
+                "total_tax": "0.00",
+                "taxes": [
+                ],
+                "meta_data": [
+                ]
+            }
+        ],
+        "fee_lines": [
+        ],
+        "coupon_lines": [
+        ],
+        "refunds": [
+        ],
+        "payment_url": "https://vapelab.mx/checkout/order-pay/1665560?pay_for_order=true&key=wc_order_wCp1JUfIlGDGe",
+        "is_editable": true,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2023-02-02T17:56:35",
+        "date_modified_gmt": "2023-02-21T17:58:52",
+        "date_completed_gmt": null,
+        "date_paid_gmt": null,
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://vapelab.mx/wp-json/wc/v3/orders/1665560"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://vapelab.mx/wp-json/wc/v3/orders"
+                }
+            ],
+            "customer": [
+                {
+                    "href": "https://vapelab.mx/wp-json/wc/v3/customers/7525"
+                }
+            ]
+        }
+    }
+]
